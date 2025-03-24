@@ -12,7 +12,9 @@ Data was cleaned and processed using Excel and SQL, with visualizations built in
 
 ### Tools Used
 
-- Excel – Data cleaning, preprocessing, and exploratory analysis [Download here](https://microsoft.com)
+- Excel – Data cleaning, preprocessing, and exploratory analysis
+   - [Download here](https://microsoft.com)
+     
 - SQL Server – Data transformation, querying, and extracting insights
 - Power BI – Data visualization and dashboard creation
 
@@ -20,7 +22,15 @@ Data was cleaned and processed using Excel and SQL, with visualizations built in
 
 In the initial data preparation phase, we performed the following tasks:
 
-1. Data loading and inspection
+1. Data loading and inspection.
 2. Converted data into a structured table format.
 3. Standardized column names for consistency.
+
+### Exploratory Data Analysis
+
+During the EDA phase, we examined the dataset to uncover key patterns and insights:
+ - Summary Statistics: Reviewed total records, unique values, and distributions.
+ - Education Analysis: Identified the most common education levels.
+ - Occupation Trends: Determined the most frequent occupations.
+ - Age Distribution: Analyzed age variations across different education and occupation groups.
 
