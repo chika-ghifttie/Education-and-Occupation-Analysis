@@ -29,8 +29,10 @@ In the initial data preparation phase, we performed the following tasks:
 ### Exploratory Data Analysis
 
 During the EDA phase, we examined the dataset to uncover key patterns and insights:
- - Summary Statistics: Reviewed total records, unique values, and distributions.
- - Education Analysis: Identified the most common education levels.
- - Occupation Trends: Determined the most frequent occupations.
- - Age Distribution: Analyzed age variations across different education and occupation groups.
+
+ - Occupation by Race: Analyzed racial representation across occupations.
+ - Country & Occupations: Identified dominant countries in specific job roles.
+ - Education & Work Class: Explored how education influences work class categories.
+ - Education & Occupation: Examined job trends based on education levels.
+
 
