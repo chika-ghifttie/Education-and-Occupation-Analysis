@@ -80,3 +80,27 @@ GROUP BY
     Education
 ORDER BY Age_Group, Total_People DESC;
 ```
+
+### Results/Findings
+
+1. Administrative Clerical Roles Dominate the U.S. – The United States has the highest number of people (819) in admin clerical roles, followed by Mexico (13) and Cuba (2).
+2. Craft Repair is Common in Europe – Countries like Colombia (3), Germany (3), Poland (8), Portugal (3), Laos (1), and Cambodia (1) have craft repair as the dominant occupation.
+3. Machine Operators & Inspectors – Found in Canada (4), El Salvador (4), Ecuador (2) as the top occupation.
+4. Professional & Executive Roles in Asia – India (2) in professional specialty, while Taiwan (3), Thailand (1), and France (2) have executive managerial roles as top occupations.
+5. Other Service & Handlers/Cleaners in Latin America & the Caribbean – Haiti (1) and Jamaica (3) have other service roles as their dominant occupation, while Nicaragua (3) leads in handlers/cleaners.
+6. Smaller Trends – Countries like Italy (3) and France (2) lean toward executive managerial roles, while China (2) and the Philippines (3) are strong in admin clerical positions.
+
+## Key Insights
+
+- **Total Individuals Analyzed**: 899
+- **Most Common Education Level**: HS Grad
+- **Most Common Occupation**: Administrative Clerical
+- **Average Age**: 39 years
+
+
+
+
+
+
+
+
