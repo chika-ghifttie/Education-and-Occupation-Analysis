@@ -35,4 +35,24 @@ During the EDA phase, we examined the dataset to uncover key patterns and insigh
  - Education & Work Class: Explored how education influences work class categories.
  - Education & Occupation: Examined job trends based on education levels.
 
+### Data Analysis
 
+include interesting code/features worked with
+  - Education Level VS Occupation
+```sql
+SELECT Education, Occupation,
+COUNT(*) AS Total_People
+FROM [dbo].['Education USA$']
+GROUP BY Education,Occupation
+ORDER BY Education,Total_People DESC;
+```
+
+  - Gender Representation Across Occupation
+```
+SELECT * FROM [dbo].['Education USA$']
+SELECT Gender, Occupation,
+COUNT(*) AS Total_Count
+FROM [dbo].['Education USA$']
+GROUP BY Gender, Occupation
+ORDER BY Gender, Total_Count DESC;
+```
