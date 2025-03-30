@@ -1,19 +1,5 @@
 # Education & Occupation Analysis
 
-## Table of Contents
-
- - [Project Overview](#project-overview)
- - [Data Sources](#data-sources)
- - [Tools Used](#tools-used)
- - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
- - [Exploratory Data Analysis](#exploratory-data-analysis)
- - [Data Analysis](#data-analysis)
- - [Results/Findings](#results-/-findings)
- - [Key Insights](#key-insights)
- - [Recommendations](#recommendations)
- - [Limitations](#limitations)
- - [References](#references)
- - 
 ### Project Overview
 ---
 This project analyzes the relationship between education levels and occupations, uncovering key workforce trends. Using Excel, SQL, and Power BI, it explores how educational attainment influences career paths, highlighting the most common education levels and occupations.
@@ -113,19 +99,19 @@ ORDER BY Age_Group, Total_People DESC;
 
 ### Recommendations
 ---
-#### 1. Encourage Higher Education for Better Job Opportunities
+**1. Encourage Higher Education for Better Job Opportunities**
 
  - The majority of high-paying and professional roles, such as Executive Managerial and Professional Specialty, are held by individuals with a Bachelor’s degree or higher.
 
  - Expanding access to higher education, scholarships, and vocational training can help more people qualify for these roles and reduce the concentration of lower-income jobs among those with only a high school diploma.
 
-#### 2. Address Racial Disparities in Occupations
+**2. Address Racial Disparities in Occupations**
 
  - The data shows that certain occupations are disproportionately dominated by specific racial groups. For example, Admin Clerical and Craft Repair roles are held mainly by White workers, while Other Services and Machine Operations have a higher proportion of Black workers.
 
  - This suggests potential barriers to career mobility for some racial groups. Implementing equal employment opportunities, skill development programs, and mentorship initiatives can help diversify job roles and ensure fair career growth.
 
-#### 3. Expand Self-Employment and Government Job Access
+ **3. Expand Self-Employment and Government Job Access**
 
  - The majority of people work in the private sector, with fewer in self-employment or government jobs.
 
@@ -135,7 +121,7 @@ ORDER BY Age_Group, Total_People DESC;
 
     - Government job recruitment drives to attract more diverse candidates into stable career paths with benefits.
 
-#### 4. Improve Employment Support for Immigrants
+ **4. Improve Employment Support for Immigrants**
 
  - The United States has the highest number of workers, but immigrants from Mexico, India, the Philippines, and other countries tend to dominate specific job sectors.
 
@@ -147,13 +133,13 @@ ORDER BY Age_Group, Total_People DESC;
 
     - Language and technical skill training to bridge gaps and open more career opportunities.
 
- #### 5. Promote High-Paying Careers Through Education & Skill Development
+ **5. Promote High-Paying Careers Through Education & Skill Development**
 
  - Careers in Executive Management and Professional Specialty fields tend to require higher education and specialized training.
 
  - Investing in STEM education, leadership programs, and technical certifications will help more people move into these lucrative fields.
 
-#### 6. Use Country-Specific Employment Trends to Guide Workforce Policies
+**6. Use Country-Specific Employment Trends to Guide Workforce Policies**
 
  - The data shows that certain occupations are dominated by workers from specific countries.
 
@@ -184,7 +170,9 @@ The dataset was gotten from Kaggle.
    -  Microsoft Power BI – for data visualization
    -  GitHub – for version control and documentation
 
+😊
 
+💻
 
 
 
