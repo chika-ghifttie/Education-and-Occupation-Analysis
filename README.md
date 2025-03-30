@@ -111,7 +111,7 @@ ORDER BY Age_Group, Total_People DESC;
 
  - This suggests potential barriers to career mobility for some racial groups. Implementing equal employment opportunities, skill development programs, and mentorship initiatives can help diversify job roles and ensure fair career growth.
 
-### 3. Expand Self-Employment and Government Job Access
+#### 3. Expand Self-Employment and Government Job Access
 
  - The majority of people work in the private sector, with fewer in self-employment or government jobs.
 
@@ -153,9 +153,13 @@ ORDER BY Age_Group, Total_People DESC;
 
    - Offering industry-specific training programs for new immigrants based on their home country’s expertise.
 
+### limitations
 
+Some adjustments were made to improve the clarity and usability of the dataset. Column headings were reformatted by capitalizing them for consistency and readability. Additionally, race categories were broad, meaning the analysis could not capture more specific ethnic differences in employment trends.
 
- 
+The dataset was heavily dominated by records from the United States, which influenced occupation distribution by country. While other countries were represented, their sample sizes were significantly smaller, making it difficult to draw strong conclusions about global workforce trends.
+
+### References 
 
 
 
