@@ -1,5 +1,19 @@
 # Education & Occupation Analysis
 
+## Table of Contents
+
+ - [Project Overview](#project-overview)
+ - [Data Sources](#data-sources)
+ - [Tools Used](#tools-used)
+ - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+ - [Exploratory Data Analysis](#exploratory-data-analysis)
+ - [Data Analysis](#data-analysis)
+ - [Results/Findings](#results-/-findings)
+ - [Key Insights](#key-insights)
+ - [Recommendations](#recommendations)
+ - [Limitations](#limitations)
+ - [References](#references)
+ - 
 ### Project Overview
 ---
 This project analyzes the relationship between education levels and occupations, uncovering key workforce trends. Using Excel, SQL, and Power BI, it explores how educational attainment influences career paths, highlighting the most common education levels and occupations.
@@ -161,7 +175,14 @@ The dataset was heavily dominated by records from the United States, which influ
 
 ### References 
 
+-  Dataset Source:
+  
+The dataset was gotten from Kaggle.
 
+ - Tools Used:
+   - SQL / Excel – for data cleaning and exploratory analysis (if applicable
+   -  Microsoft Power BI – for data visualization
+   -  GitHub – for version control and documentation
 
 
 
