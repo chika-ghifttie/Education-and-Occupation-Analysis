@@ -5,6 +5,9 @@
 This project analyzes the relationship between education levels and occupations, uncovering key workforce trends. Using Excel, SQL, and Power BI, it explores how educational attainment influences career paths, highlighting the most common education levels and occupations.
 By providing data-driven insights, this analysis helps policymakers, job seekers, and educators understand the impact of education on career choices.
 
+![Education excel](https://github.com/user-attachments/assets/6bd91ff4-a261-435e-99ab-d57642c4649d)
+
+
 ### Data Sources
 ---
 The dataset for this analysis comes from Kaggle. It includes key variables such as education level, occupation, and age, providing insights into workforce trends.
@@ -89,6 +92,9 @@ ORDER BY Age_Group, Total_People DESC;
 4. Professional & Executive Roles in Asia – India (2) in professional specialty, while Taiwan (3), Thailand (1), and France (2) have executive managerial roles as top occupations.
 5. Other Service & Handlers/Cleaners in Latin America & the Caribbean – Haiti (1) and Jamaica (3) have other service roles as their dominant occupation, while Nicaragua (3) leads in handlers/cleaners.
 6. Smaller Trends – Countries like Italy (3) and France (2) lean toward executive managerial roles, while China (2) and the Philippines (3) are strong in admin clerical position.
+
+![Education screenshot](https://github.com/user-attachments/assets/02319f4a-22a0-4f56-9287-cff96cbd7aed)
+   
 
    ### Key Insigts
 ---
