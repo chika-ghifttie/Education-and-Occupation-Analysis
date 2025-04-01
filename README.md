@@ -94,7 +94,8 @@ ORDER BY Age_Group, Total_People DESC;
 6. Smaller Trends – Countries like Italy (3) and France (2) lean toward executive managerial roles, while China (2) and the Philippines (3) are strong in admin clerical position.
 
 ![Education screenshot](https://github.com/user-attachments/assets/02319f4a-22a0-4f56-9287-cff96cbd7aed)
-   
+
+  *The dashboard is interactive, allowing users to explore different aspects of the data through slicers. In the screenshot, the slicer is collapsed for clarity, but it enables dynamic filtering of the visualizations.*
 
    ### Key Insigts
 ---
